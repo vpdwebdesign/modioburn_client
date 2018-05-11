@@ -1,0 +1,47 @@
+<RCC>    
+    <qresource prefix="/icons">
+        <file>audioplayer/index.theme</file>
+        <file>audioplayer/32x32/bluetooth.png</file>
+        <file>audioplayer/32x32/cart.png</file>
+        <file>audioplayer/32x32/cloud.png</file>
+        <file>audioplayer/32x32/filter.png</file>
+        <file>audioplayer/32x32/folder.png</file>
+        <file>audioplayer/32x32/message.png</file>
+        <file>audioplayer/32x32/music.png</file>
+        <file>audioplayer/32x32/next.png</file>
+        <file>audioplayer/32x32/fr.png</file>
+        <file>audioplayer/32x32/ff.png</file>
+        <file>audioplayer/32x32/pause.png</file>
+        <file>audioplayer/32x32/power.png</file>
+        <file>audioplayer/32x32/previous.png</file>
+        <file>audioplayer/32x32/repeat.png</file>
+        <file>audioplayer/32x32/save.png</file>
+        <file>audioplayer/32x32/settings.png</file>
+        <file>audioplayer/32x32/shuffle.png</file>
+        <file>audioplayer/32x32/stop.png</file>
+        <file>audioplayer/32x32/toggle_fullscreen.png</file>
+        <file>audioplayer/32x32@2/bluetooth.png</file>
+        <file>audioplayer/32x32@2/cart.png</file>
+        <file>audioplayer/32x32@2/cloud.png</file>
+        <file>audioplayer/32x32@2/filter.png</file>
+        <file>audioplayer/32x32@2/folder.png</file>
+        <file>audioplayer/32x32@2/grid.png</file>
+        <file>audioplayer/32x32@2/message.png</file>
+        <file>audioplayer/32x32@2/music.png</file>
+        <file>audioplayer/32x32@2/next.png</file>
+        <file>audioplayer/32x32@2/pause.png</file>
+        <file>audioplayer/32x32@2/power.png</file>
+        <file>audioplayer/32x32@2/previous.png</file>
+        <file>audioplayer/32x32@2/repeat.png</file>
+        <file>audioplayer/32x32@2/save.png</file>
+        <file>audioplayer/32x32@2/settings.png</file>
+        <file>audioplayer/32x32@2/shuffle.png</file>
+        <file>audioplayer/32x32@2/stop.png</file>
+        <file>audioplayer/32x32/favorite.png</file>
+        <file>audioplayer/32x32@2/favorite.png</file>
+        <file>audioplayer/32x32/play.png</file>
+        <file>audioplayer/32x32/audio_off.png</file>
+        <file>audioplayer/32x32/audio_on.png</file>
+        <file>audioplayer/32x32/repeat_once.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>About.qml</file>
+        <file>AudioPage.qml</file>
+        <file>Button.qml</file>
+        <file>ConfigPanel.qml</file>
+        <file>ControlPanel.qml</file>
+        <file>DelegateItem.qml</file>
+        <file>EffectPage.qml</file>
+        <file>MediaInfoPage.qml</file>
+        <file>Menu.qml</file>
+        <file>MiscPage.qml</file>
+        <file>MyProgressBar.qml</file>
+        <file>Page.qml</file>
+        <file>Player.qml</file>
+        <file>PlayListPanel.qml</file>
+        <file>Slider.qml</file>
+        <file>SubtitlePage.qml</file>
+        <file>utils.js</file>
+        <file>VideoCodec.qml</file>
+    </qresource>
+</RCC>

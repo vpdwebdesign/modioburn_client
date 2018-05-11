@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/theme">
+        <file>light/backward.svg</file>
+        <file>light/forward.svg</file>
+        <file>light/help.svg</file>
+        <file>light/info.svg</file>
+        <file>light/open.svg</file>
+        <file>light/pause.svg</file>
+        <file>light/play.svg</file>
+        <file>light/stop.svg</file>
+        <file>light/fullscreen.svg</file>
+        <file>light/close.svg</file>
+        <file>dark/capture.svg</file>
+        <file>dark/menu.svg</file>
+        <file>dark/sound.svg</file>
+        <file>dark/backward.svg</file>
+        <file>dark/forward.svg</file>
+        <file>dark/help.svg</file>
+        <file>dark/info.svg</file>
+        <file>dark/open.svg</file>
+        <file>dark/pause.svg</file>
+        <file>dark/play.svg</file>
+        <file>dark/stop.svg</file>
+        <file>dark/fullscreen.svg</file>
+        <file>dark/close.svg</file>
+        <file>light/volume.svg</file>
+        <file>light/mute.svg</file>
+    </qresource>
+</RCC>

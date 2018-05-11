@@ -1,0 +1,18 @@
+[Icon Theme]
+Name=ModioBurn Audio Player
+Comment=Icon theme for ModioBurn Audio Player
+
+Directories=28x28,32x32,32x32@2
+
+[28x28]
+Size=28
+Type=Fixed
+
+[32x32]
+Size=32
+Type=Fixed
+
+[32x32@2]
+Size=32
+Scale=2
+Type=Fixed
